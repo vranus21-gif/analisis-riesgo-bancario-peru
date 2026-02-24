@@ -4,5 +4,4 @@ Pipeline ETL en Python y Dashboard en Power BI para el análisis histórico de m
 
 The following table shows a comparison of different machine learning models
 evaluated using Accuracy, Precision, Recall and F1-score (threshold = 0.60).
-
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](model_comparison.png)
